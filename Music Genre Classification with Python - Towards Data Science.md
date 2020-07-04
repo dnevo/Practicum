@@ -1,48 +1,8 @@
-[](https://medium.com/?source=post_page-----c714d032f0d8----------------------)
-
-[Open in
-app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2Fc714d032f0d8&~feature=LiOpenInAppButton&~channel=ShowPostUnderCollection&~stage=mobileNavBar&source=post_page-----c714d032f0d8----------------------)
-
-[](https://towardsdatascience.com/search?source=post_page-----c714d032f0d8----------------------)
-
-[](https://medium.com/me/list/queue?source=post_page-----c714d032f0d8----------------------)
-
-[Upgrade](https://medium.com/membership?source=upgrade_membership---nav_full------------------------)
-
-![Neva](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/0_DE7aqjQmES3rRtBW.jpg)
-
-[](https://towardsdatascience.com/?source=post_page-----c714d032f0d8----------------------)
-
-![Towards Data
-Science](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_mG6i4Bh_LgixUYXJgQpYsg@2x.png)
-
--   [Data
-    Science](https://towardsdatascience.com/data-science/home?source=post_page-----c714d032f0d8----------------------)
--   [Machine
-    Learning](https://towardsdatascience.com/machine-learning/home?source=post_page-----c714d032f0d8----------------------)
--   [Programming](https://towardsdatascience.com/programming/home?source=post_page-----c714d032f0d8----------------------)
--   [Visualization](https://towardsdatascience.com/data-visualization/home?source=post_page-----c714d032f0d8----------------------)
--   [AI](https://towardsdatascience.com/artificial-intelligence/home?source=post_page-----c714d032f0d8----------------------)
--   [Video](https://towardsdatascience.com/video/home?source=post_page-----c714d032f0d8----------------------)
--   [About](https://towardsdatascience.com/about-us/home?source=post_page-----c714d032f0d8----------------------)
--   [Contribute](https://towardsdatascience.com/contribute/home?source=post_page-----c714d032f0d8----------------------)
-
-#### Top highlight {.bi .ek .el .bk .bn}
-
-Music Genre Classification with Python {#ceaf .fm .fn .bj .fo .b .fp .fq .fr .fs .ft .fu .fv .fw .fx .fy .fz .ga .gb .gc .gd .ge .ct}
+Music Genre Classification with Python
 ======================================
 
-A Guide to analysing Audio/Music signals in Python {#0b4a .gf .fn .bj .bi .ek .gg .gh .gi .gj .gk .gl .gm .gn .go .gp .gq .gr .gs .gt .gu .gv .bn}
+A Guide to analysing Audio/Music signals in Python
 --------------------------------------------------
-
-[![Parul
-Pandey](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_-ooorT2_5GQSfQoVFxJHXw.jpeg)](https://towardsdatascience.com/@parulnith?source=post_page-----c714d032f0d8----------------------)
-
-[Parul
-Pandey](https://towardsdatascience.com/@parulnith?source=post_page-----c714d032f0d8----------------------)
-
-Follow
-
 [Dec 13,
 2018](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8?source=post_page-----c714d032f0d8----------------------)
 · 9 min read
@@ -502,7 +462,7 @@ Either way, a lot of experimentation can be done in terms of models. You
 are free to experiment and improve your results. Using a CNN model (on
 the spectrogram images) gives a better accuracy and its worth a try.
 
-Next Steps {#5fa3 .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Next Steps
 ==========
 
 Music Genre Classification is one of the many branches of [Music
@@ -514,119 +474,3 @@ instrument recognition etc. Music analysis is a diverse field and also
 an interesting one. A music session somehow represents a moment for the
 user. Finding these moments and describing them is an interesting
 challenge in the field of Data Science.
-
-[](https://towardsdatascience.com/?source=post_sidebar--------------------------post_sidebar-)
-
-Towards Data Science {.bi .kz .po .pp .ct}
---------------------
-
-#### A Medium publication sharing concepts, ideas, and codes. {.bi .ek .cb .bk .bv .ps .bu .hh .pt .hj .bn}
-
-Follow
-
-8.3K
-
--   [Data Science](https://towardsdatascience.com/tagged/data-science)
--   [Artificial
-    Intelligence](https://towardsdatascience.com/tagged/artificial-intelligence)
--   [Machine
-    Learning](https://towardsdatascience.com/tagged/machine-learning)
--   [Python](https://towardsdatascience.com/tagged/python)
--   [Towards Data
-    Science](https://towardsdatascience.com/tagged/towards-data-science)
-
-8.3K claps
-
-[![Parul
-Pandey](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_-ooorT2_5GQSfQoVFxJHXw(1).jpeg)](https://towardsdatascience.com/@parulnith?source=follow_footer--------------------------follow_footer-)
-
-Written by
-
-[Parul Pandey](https://towardsdatascience.com/@parulnith?source=follow_footer--------------------------follow_footer-) {.bi .kz .sw .sx .ct}
-----------------------------------------------------------------------------------------------------------------------
-
-Follow
-
-#### Data Science+Community+Evangelism @H2O.ai {.bi .ek .po .ta .bn}
-
-Follow
-
-[![Towards Data
-Science](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_hVxgUA6kP-PgL5TJjuyePg.png)](https://towardsdatascience.com/?source=follow_footer--------------------------follow_footer-)
-
-[Towards Data Science](https://towardsdatascience.com/?source=follow_footer--------------------------follow_footer-) {.bi .kz .sw .sx .ct}
---------------------------------------------------------------------------------------------------------------------
-
-Follow
-
-#### A Medium publication sharing concepts, ideas, and codes. {.bi .ek .po .ta .bn}
-
-Follow
-
-[![Parul
-Pandey](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_-ooorT2_5GQSfQoVFxJHXw(2).jpeg)](https://towardsdatascience.com/@parulnith?source=follow_footer--------------------------follow_footer-)
-
-Written by
-
-[Parul Pandey](https://towardsdatascience.com/@parulnith?source=follow_footer--------------------------follow_footer-) {.bi .kz .po .pp .ct}
-----------------------------------------------------------------------------------------------------------------------
-
-Follow
-
-#### Data Science+Community+Evangelism @H2O.ai {.bi .ek .cb .bk .bn}
-
-[![Towards Data
-Science](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_hVxgUA6kP-PgL5TJjuyePg(1).png)](https://towardsdatascience.com/?source=follow_footer--------------------------follow_footer-)
-
-[Towards Data Science](https://towardsdatascience.com/?source=follow_footer--------------------------follow_footer-) {.bi .kz .po .pp .ct}
---------------------------------------------------------------------------------------------------------------------
-
-Follow
-
-#### A Medium publication sharing concepts, ideas, and codes. {.bi .ek .cb .bk .bn}
-
-[](https://medium.com/p/c714d032f0d8/responses/show?source=follow_footer--------------------------follow_footer-)
-
-See responses (44)
-
-[](https://medium.com/about?autoplay=1&source=post_page-----c714d032f0d8----------------------)
-
-#### Discover Medium {.ut .uu .uv .bi .kz .bj .ta .uw .ux .r}
-
-Welcome to a place where words matter. On Medium, smart voices and
-original ideas take center stage - with no ads in sight.
-[Watch](https://medium.com/about?autoplay=1&source=post_page-----c714d032f0d8----------------------)
-
-[](https://medium.com/topics?source=post_page-----c714d032f0d8----------------------)
-
-#### Make Medium yours {.ut .uu .uv .bi .kz .bj .ta .uw .ux .r}
-
-Follow all the topics you care about, and we’ll deliver the best stories
-for you to your homepage and inbox.
-[Explore](https://medium.com/topics?source=post_page-----c714d032f0d8----------------------)
-
-[](https://medium.com/membership?source=post_page-----c714d032f0d8----------------------)
-
-#### Become a member {.ut .uu .uv .bi .kz .bj .ta .uw .ux .r}
-
-Get unlimited access to the best stories on Medium — and support writers
-while you’re at it. Just \$5/month.
-[Upgrade](https://medium.com/membership?source=post_page-----c714d032f0d8----------------------)
-
-[](https://medium.com/?source=post_page-----c714d032f0d8----------------------)
-
-#### [About](https://medium.com/about?autoplay=1&source=post_page-----c714d032f0d8----------------------) {.bi .ek .po .ta .ut}
-
-#### [Help](https://help.medium.com/?source=post_page-----c714d032f0d8----------------------) {.bi .ek .po .ta .ut}
-
-#### [Legal](https://medium.com/policy/9db0094a1e0f?source=post_page-----c714d032f0d8----------------------) {.bi .ek .po .ta .ut}
-
-#### Get the Medium app {.bi .ek .po .ta .uy}
-
-[![A button that says 'Download on the App Store', and if clicked it
-will lead you to the iOS App
-store](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_M2FVPPidy2x386MRAE-EeA.png)](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=post_page&source=post_page-----c714d032f0d8----------------------)
-
-[![A button that says 'Get it on, Google Play', and if clicked it will
-lead you to the Google Play
-store](./Music%20Genre%20Classification%20with%20Python%20-%20Towards%20Data%20Science_files/1_HyH8oIcJvXp7xzu5oF6dTg.png)](https://play.google.com/store/apps/details?id=com.medium.reader&source=post_page-----c714d032f0d8----------------------)
