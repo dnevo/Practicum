@@ -41,7 +41,7 @@ kind of music are you into?**
 
 * * * * *
 
-Objective {#9438 .kx .ky .bj .bi .kz .la .lb .lc .ld .le .lf .lg .lh .li .lj .lk .ll .lm .ln .lo .lp .ct data-selectable-paragraph=""}
+Objective
 =========
 
 [Companies](http://cs229.stanford.edu/proj2016/report/BurlinCremeLenain-MusicGenreClassification-report.pdf)nowadays
@@ -56,7 +56,7 @@ data. The same principles are applied in Music Analysis also.
 Python. We shall then utilise the skills learnt to****classify music
 clips into different genres.***
 
-Audio Processing with Python {#f019 .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Audio Processing with Python
 ============================
 
 Sound is represented in the form of an **audio** signal having
@@ -78,7 +78,7 @@ the computer to read and analyse them. Some examples are:
 -   **WMA (Windows Media Audio) format**
 -   **wav (Waveform Audio File) format**
 
-Audio Libraries {#1a0c .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Audio Libraries
 ===============
 
 Python has some great [libraries](https://wiki.python.org/moin/Audio/)
@@ -87,7 +87,7 @@ modules for some basic audio functionalities.
 
 We will mainly use two libraries for audio acquisition and playback:
 
-1. Librosa {#b3e7 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+1. Librosa
 ----------
 
 It is a Python module to analyze audio signals in general but geared
@@ -110,13 +110,13 @@ pip install librosaorconda install -c conda-forge librosa
 To fuel more audio-decoding power, you can install *ffmpeg* which ships
 with many audio decoders.
 
-2. IPython.display.Audio {#1edb .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+2. IPython.display.Audio
 ------------------------
 
 `IPython.display.Audio`{.jb .ni .nj .nk .ne .b} lets you play audio
 directly in a jupyter notebook.
 
-Loading an audio file {#135e .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Loading an audio file
 =====================
 
 ``` {.im .in .io .ip .iq .nc .nd .dz}
@@ -141,7 +141,7 @@ to disable resampling.
 The sample**rate** is the number of samples of audio carried per second,
 measured in Hz or kHz.
 
-Playing Audio {#a8fd .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Playing Audio
 =============
 
 Using,`IPython.display.Audio`{.jb .ni .nj .nk .ne .b} to play the audio
@@ -163,10 +163,10 @@ uploaded the same to SoundCloud so that we can listen to it.
 
 You can even use an mp3 or a WMA format for the audio example.
 
-Visualizing Audio {#a642 .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Visualizing Audio
 =================
 
-Waveform {#3660 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+Waveform
 --------
 
 We can plot the audio array using `librosa.display.waveplot`{.jb .ni .nj
@@ -182,7 +182,7 @@ We can plot the audio array using `librosa.display.waveplot`{.jb .ni .nj
 
 Here, we have the plot of the amplitude envelope of a waveform.
 
-Spectrogram {#6405 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+Spectrogram
 -----------
 
 A [**spectrogram**](https://en.wikipedia.org/wiki/Spectrogram) is a
@@ -219,7 +219,7 @@ librosa.display.specshow(Xdb, sr=sr, x_axis='time', y_axis='log')plt.colorbar()
 
 ![](https://miro.medium.com/max/946/1*JttzQLEFRzAb3clp7dkfKg.png)
 
-Writing Audio {#d805 .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Writing Audio
 =============
 
 `librosa.output.write_wav`{.jb .ni .nj .nk .ne .b} saves a NumPy array
@@ -229,7 +229,7 @@ to a WAV file.
 librosa.output.write_wav('example.wav', x, sr)
 ```
 
-Creating an audio signal {#8bd6 .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Creating an audio signal
 ========================
 
 Let us now create an audio signal at 220Hz. An audio signal is a numpy
@@ -241,7 +241,7 @@ import numpy as npsr = 22050 # sample rateT = 5.0    # secondst = np.linspace(0,
 
 So, here it is- first sound signal created by you.🙌
 
-Feature extraction {#aa21 .kx .ky .bj .bi .kz .la .mb .lc .ld .mc .lf .lg .md .li .lj .me .ll .lm .mf .lo .lp .ct data-selectable-paragraph=""}
+Feature extraction
 ==================
 
 Every audio signal consists of many features. However, we must extract
@@ -392,14 +392,14 @@ computation
 
 * * * * *
 
-Case Study: Classify songs into different genres. {#2093 .kx .ky .bj .bi .kz .la .lb .lc .ld .le .lf .lg .lh .li .lj .lk .ll .lm .ln .lo .lp .ct data-selectable-paragraph=""}
+Case Study: Classify songs into different genres.
 =================================================
 
 *After having an overview of the acoustic signal, their features and
 their feature extraction process, it is time to utilise our newly
 developed skill to work on a Machine Learning Problem.*
 
-Objective {#b227 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+Objective
 ---------
 
 In his section, we will try to model a classifier to classify songs into
@@ -409,7 +409,7 @@ assumed to contain music. Our task is to sort them according to the
 music genre into different folders such as jazz, classical, country,
 pop, rock, and metal.
 
-Dataset {#1a43 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+Dataset
 -------
 
 We will be using the famous
@@ -424,7 +424,7 @@ contains 10 genres namely, **blues, classical, country, disco, hiphop,
 jazz, reggae, rock, metal and pop.**Each genre consists of 100 sound
 clips.
 
-Preprocessing the Data {#1482 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+Preprocessing the Data
 ----------------------
 
 Before training the classification model, we have to transform raw data
@@ -440,7 +440,7 @@ SoX conversion.
 sox input.au output.wav
 ```
 
-Classification {#e9a0 .mq .ky .bj .bi .kz .mr .ms .ke .mt .mu .kg .mv .mw .go .mx .my .gr .mz .na .gu .nb .ct data-selectable-paragraph=""}
+Classification
 --------------
 
 -   **Feature Extraction**
